@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omkar-Mokashi
 - 👀 I’m interested in developing code that solves various problems.
-- 🌱 I’m currently learning C#, .Net, Angular and Javascript.
+- 🌱 I majorly have experience in C#, .Net, Java, AWS and also keep interest in Python, JavaScript, React, Angular.
 - 💞️ I’m looking to collaborate on small to big applications to solve business needs.
 - 📫 How to reach me is through email: mokashi.omkara@gmail.com
 
